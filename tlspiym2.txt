@@ -1,4 +1,4 @@
-time.is #优选域名
+time.is#优选域名
 icook.hk#优选域名
 icook.tw#优选域名
 ip.sb#优选域名
