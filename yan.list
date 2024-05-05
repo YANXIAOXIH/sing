@@ -1,4 +1,4 @@
-HOST-SUFFIX,ds5hk,sis001
+HOST-SUFFIX,ds5hk,sis001,omdbapi,themoviedb,thetvdb
 
 DOMAIN-SUFFIX,ds5hk.app
 DOMAIN-SUFFIX,z4a.net
@@ -17,4 +17,11 @@ DOMAIN-SUFFIX,*.av28.tv
 DOMAIN-SUFFIX,*.sis001.com
 DOMAIN-SUFFIX,qpic.ws
 
-DOMAIN-KEYWORD,ds5hk,sis001
+DOMAIN-SUFFIX,artworks.thetvdb.com
+DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,private.omdbapi.com
+DOMAIN-SUFFIX,*.thetvdb.com
+DOMAIN-SUFFIX,*.themoviedb.org
+DOMAIN-SUFFIX,*.omdbapi.com
+
+DOMAIN-KEYWORD,ds5hk,sis001,omdbapi,themoviedb,thetvdb
