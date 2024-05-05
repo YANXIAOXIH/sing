@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,*.redditstatic.com
 DOMAIN-SUFFIX,*.tailscale.com
 DOMAIN-SUFFIX,*.tailscale.io
+DOMAIN-SUFFIX,m.xi.serv00.net
+DOMAIN-SUFFIX,*.xi.serv00.net
