@@ -1,3 +1,6 @@
+HOST-SUFFIX,tailscale,serv00
+
+
 DOMAIN-SUFFIX,log.tailscale.io
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,redditstatic.com
