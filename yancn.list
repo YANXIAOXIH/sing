@@ -1,11 +1,14 @@
 HOST-SUFFIX,tailscale,serv00
 
-
 DOMAIN-SUFFIX,log.tailscale.io
 DOMAIN-SUFFIX,tailscale.com
-DOMAIN-SUFFIX,redditstatic.com
-DOMAIN-SUFFIX,*.redditstatic.com
+DOMAIN-SUFFIX,controlplane.tailscale.com
 DOMAIN-SUFFIX,*.tailscale.com
 DOMAIN-SUFFIX,*.tailscale.io
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,*.redditstatic.com
+
 DOMAIN-SUFFIX,m.xi.serv00.net
 DOMAIN-SUFFIX,*.xi.serv00.net
+
+DOMAIN-KEYWORD,tailscale,serv00
