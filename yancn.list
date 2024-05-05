@@ -1,0 +1,6 @@
+DOMAIN-SUFFIX,log.tailscale.io
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,*.redditstatic.com
+DOMAIN-SUFFIX,*.tailscale.com
+DOMAIN-SUFFIX,*.tailscale.io
