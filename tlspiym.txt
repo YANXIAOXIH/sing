@@ -44,8 +44,8 @@ japan.com#优选域名.PUG
 russia.com#优选域名.PUG
 www.hugedomains.com#优选域名.PUG
 www.wto.org#优选域名.PUG
-workers.cloudflare.cyou
-my-telegram-is-herocore.onecf.eu.org
+workers.cloudflare.cyou#优选域名.PUG
+my-telegram-is-herocore.onecf.eu.org#优选域名.PUG
 
 bestcf.onecf.eu.org#官方优选域名-Mingyu大佬提供维护
 bestproxy.onecf.eu.org#反代优选域名-Mingyu大佬提供维护
