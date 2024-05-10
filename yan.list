@@ -1,22 +1,4 @@
-HOST-SUFFIX,ds5hk,sis001,omdbapi,themoviedb,thetvdb
-
-DOMAIN-SUFFIX,qz1gy.app
-DOMAIN-SUFFIX,brrub.us
-DOMAIN-SUFFIX,ds5hk.app
-DOMAIN-SUFFIX,sda1.dev
-DOMAIN-SUFFIX,javcdn.cc
-DOMAIN-SUFFIX,fonfu.app
-DOMAIN-SUFFIX,0slnk.us
-DOMAIN-SUFFIX,tupian.li
-DOMAIN-SUFFIX,74ya4.app
-DOMAIN-SUFFIX,lmjd2.app
-DOMAIN-SUFFIX,wkt41.app
-DOMAIN-SUFFIX,*.qz1gy.app
-DOMAIN-SUFFIX,*.ds5hk.app
-DOMAIN-SUFFIX,*.fonfu.app
-DOMAIN-SUFFIX,*.postimg.cc
-DOMAIN-SUFFIX,*.7livq.app
-DOMAIN-SUFFIX,*.lmjd2.app
+HOST-SUFFIX,sis001,omdbapi,themoviedb,thetvdb
 
 DOMAIN-SUFFIX,sis001.com
 DOMAIN-SUFFIX,*.av28.tv
@@ -30,4 +12,4 @@ DOMAIN-SUFFIX,*.thetvdb.com
 DOMAIN-SUFFIX,*.themoviedb.org
 DOMAIN-SUFFIX,*.omdbapi.com
 
-DOMAIN-KEYWORD,ds5hk,sis001,omdbapi,themoviedb,thetvdb
+DOMAIN-KEYWORD,sis001,omdbapi,themoviedb,thetvdb
