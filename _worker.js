@@ -2,7 +2,7 @@
 import { connect } from "cloudflare:sockets";
 let sha224Password = '08f32643dbdacf81d0d511f1ee24b06de759e90f8edf742bbdc57d88';
 
-const proxyIPs = ['cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'workers.cloudflare.cyou'];
+const proxyIPs = ['cdn-all.xn--b6gac.eu.org','cdn.xn--b6gac.eu.org'，'workers.cloudflare.cyou'];
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 
 if (!isValidSHA224(sha224Password)) {
