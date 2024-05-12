@@ -1,9 +1,12 @@
-HOST-SUFFIX,sis001,omdbapi,themoviedb,thetvdb
+HOST-SUFFIX,sis001,omdbapi,themoviedb,thetvdb,sehuatang
 
 DOMAIN-SUFFIX,sis001.com
 DOMAIN-SUFFIX,*.av28.tv
 DOMAIN-SUFFIX,*.sis001.com
 DOMAIN-SUFFIX,qpic.ws
+
+DOMAIN-SUFFIX,sehuatang.org
+DOMAIN-SUFFIX,sehuatang.net
 
 DOMAIN-SUFFIX,artworks.thetvdb.com
 DOMAIN-SUFFIX,api.themoviedb.org
@@ -12,4 +15,4 @@ DOMAIN-SUFFIX,*.thetvdb.com
 DOMAIN-SUFFIX,*.themoviedb.org
 DOMAIN-SUFFIX,*.omdbapi.com
 
-DOMAIN-KEYWORD,sis001,omdbapi,themoviedb,thetvdb
+DOMAIN-KEYWORD,sis001,omdbapi,themoviedb,thetvdb,sehuatang
