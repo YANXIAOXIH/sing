@@ -7,8 +7,29 @@ DOMAIN-SUFFIX,qpic.ws
 
 DOMAIN-SUFFIX,sehuatang.org
 DOMAIN-SUFFIX,sehuatang.net
+DOMAIN-SUFFIX,nudb6.com
 DOMAIN-SUFFIX,*.sehuatang.org
 DOMAIN-SUFFIX,*.sehuatang.net
+43DOMAIN-SUFFIX,qz1gy.app
+DOMAIN-SUFFIX,nudb6.com
+DOMAIN-SUFFIX,brrub.us
+DOMAIN-SUFFIX,wkt41.app
+DOMAIN-SUFFIX,sda1.dev
+DOMAIN-SUFFIX,javcdn.cc
+DOMAIN-SUFFIX,z4a.net
+DOMAIN-SUFFIX,javcdn.cc
+DOMAIN-SUFFIX,z4a.net
+DOMAIN-SUFFIX,*.nudb6.com
+43DOMAIN-SUFFIX,*.qz1gy.app
+DOMAIN-SUFFIX,*.nudb6.com
+DOMAIN-SUFFIX,*.brrub.us
+DOMAIN-SUFFIX,*.wkt41.app
+DOMAIN-SUFFIX,*.sda1.dev
+DOMAIN-SUFFIX,*.javcdn.cc
+DOMAIN-SUFFIX,*.z4a.net
+DOMAIN-SUFFIX,*.javcdn.cc
+DOMAIN-SUFFIX,*.z4a.net
+
 
 DOMAIN-SUFFIX,artworks.thetvdb.com
 DOMAIN-SUFFIX,api.themoviedb.org
