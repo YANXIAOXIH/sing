@@ -36,11 +36,28 @@ DOMAIN-SUFFIX,*.javcdn.cc
 DOMAIN-SUFFIX,*.z4a.net
 
 
-DOMAIN-SUFFIX,artworks.thetvdb.com
 DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,api.tmdb.org
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,www.themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,image.tmdb.org
+
+DOMAIN-SUFFIX,api.thetvdb.com
+DOMAIN-SUFFIX,thetvdb.com
+
+DOMAIN-SUFFIX,assets.fanart.tv
+DOMAIN-SUFFIX,webservice.fanart.tv
+DOMAIN-SUFFIX,fanart.tv
+
+DOMAIN-SUFFIX,api.opensubtitles.org
+
+DOMAIN-SUFFIX,translate.google.com
+DOMAIN-SUFFIX,time.google.com
+
 DOMAIN-SUFFIX,private.omdbapi.com
-DOMAIN-SUFFIX,*.thetvdb.com
-DOMAIN-SUFFIX,*.themoviedb.org
 DOMAIN-SUFFIX,*.omdbapi.com
+
+
 
 DOMAIN-KEYWORD,sis001,omdbapi,themoviedb,thetvdb,sehuatang
