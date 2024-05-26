@@ -1,11 +1,13 @@
 // ==UserScript==
-// @name         pikpak助手
-// @name:zh-CN   pikpak助手
+// @name         pikpak
+// @name:zh-CN   pikpak
 // @namespace    http://tampermonkey.net/
 // @version      0.8
 // @author       lll
 // @description  pikpak网盘助手，绕过ip限制，支持aria2下载!
 // @description:zh-cn  pikpak网盘助手，绕过ip限制，支持aria2下载!
+// @match        https://mypikpak.com/*
+// @match        *://*/*
 // @license      MIT
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=mypikpak.com
 // @require      https://cdn.jsdelivr.net/npm/vue@3.2.45/dist/vue.global.prod.js
