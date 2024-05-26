@@ -8,7 +8,6 @@
 // @description:zh-cn  pikpak网盘助手，绕过ip限制，支持aria2下载!
 // @license      MIT
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=mypikpak.com
-// @match        https://mypikpak.com/*
 // @require      https://cdn.jsdelivr.net/npm/vue@3.2.45/dist/vue.global.prod.js
 // @grant        GM_xmlhttpRequest
 // @grant        unsafeWindow
