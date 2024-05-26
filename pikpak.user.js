@@ -3,7 +3,7 @@
 // @name:zh-CN   pikpak助手
 // @namespace    http://tampermonkey.net/
 // @version      0.8
-// @author       xiaoziguys
+// @author       lll
 // @description  pikpak网盘助手，绕过ip限制，支持aria2下载!
 // @description:zh-cn  pikpak网盘助手，绕过ip限制，支持aria2下载!
 // @license      MIT
