@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,n494r.epfrk.app
 
 DOMAIN-SUFFIX,*.sehuatang.org
 DOMAIN-SUFFIX,*.sehuatang.net
-43DOMAIN-SUFFIX,qz1gy.app
+DOMAIN-SUFFIX,qz1gy.app
 DOMAIN-SUFFIX,nudb6.com
 DOMAIN-SUFFIX,brrub.us
 DOMAIN-SUFFIX,wkt41.app
@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,z4a.net
 DOMAIN-SUFFIX,javcdn.cc
 DOMAIN-SUFFIX,z4a.net
 DOMAIN-SUFFIX,*.nudb6.com
-43DOMAIN-SUFFIX,*.qz1gy.app
+DOMAIN-SUFFIX,*.qz1gy.app
 DOMAIN-SUFFIX,*.nudb6.com
 DOMAIN-SUFFIX,*.brrub.us
 DOMAIN-SUFFIX,*.wkt41.app
@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,*.javcdn.cc
 DOMAIN-SUFFIX,*.z4a.net
 DOMAIN-SUFFIX,*.javcdn.cc
 DOMAIN-SUFFIX,*.z4a.net
-
+DOMAIN-SUFFIX,*.*.app
 
 DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,api.tmdb.org
