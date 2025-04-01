@@ -58,6 +58,6 @@ DOMAIN-SUFFIX,time.google.com
 DOMAIN-SUFFIX,private.omdbapi.com
 DOMAIN-SUFFIX,*.omdbapi.com
 
-
+DOMAIN-SUFFIX,*.github.com
 
 DOMAIN-KEYWORD,sis001,omdbapi,themoviedb,thetvdb,sehuatang
