@@ -27,6 +27,8 @@ DOMAIN-SUFFIX,*.javcdn.cc
 DOMAIN-SUFFIX,*.z4a.net
 DOMAIN-SUFFIX,*.*.app
 
+DOMAIN-SUFFIX,*.v6.army
+
 DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,api.tmdb.org
 DOMAIN-SUFFIX,themoviedb.org
