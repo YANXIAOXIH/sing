@@ -1,4 +1,8 @@
-HOST-SUFFIX,sis001,omdbapi,themoviedb,thetvdb,sehuatang
+HOST-SUFFIX,sis001,omdbapi,themoviedb,thetvdb,sehuatang,google
+
+DOMAIN-SUFFIX,*.google.com
+DOMAIN-SUFFIX,*.google-analytics.com
+DOMAIN-SUFFIX,*.gstatic.com
 
 DOMAIN-SUFFIX,rgkm7.cs33u.com
 DOMAIN-SUFFIX,jit0h.dog
@@ -61,4 +65,4 @@ DOMAIN-SUFFIX,time.google.com
 DOMAIN-SUFFIX,private.omdbapi.com
 DOMAIN-SUFFIX,*.omdbapi.com
 
-DOMAIN-KEYWORD,sis001,omdbapi,themoviedb,thetvdb,sehuatang
+DOMAIN-KEYWORD,sis001,omdbapi,themoviedb,thetvdb,sehuatang,google
