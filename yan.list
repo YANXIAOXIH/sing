@@ -3,6 +3,8 @@ HOST-SUFFIX,sis001,omdbapi,themoviedb,thetvdb,sehuatang,google
 DOMAIN-SUFFIX,*.google.com
 DOMAIN-SUFFIX,*.google-analytics.com
 DOMAIN-SUFFIX,*.gstatic.com
+DOMAIN-SUFFIX,*.github.com
+DOMAIN-SUFFIX,*github.githubassets.com
 
 DOMAIN-SUFFIX,rgkm7.cs33u.com
 DOMAIN-SUFFIX,jit0h.dog
